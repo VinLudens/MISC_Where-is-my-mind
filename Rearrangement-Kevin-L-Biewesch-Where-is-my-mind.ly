@@ -5,7 +5,7 @@
   subtitle = "(Frank Black)"
   composer = "Rearrangement: Kevin L. Biewesch"
   arranger = "Original arrangement: Maxence Cyrin"
-  %meter = "60 - 70"
+  %meter = "60 - 70" 
 }
 
 \paper {
